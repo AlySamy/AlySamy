@@ -226,6 +226,35 @@ Stack  →  Laravel · Next.js · MySQL
 
 ---
 
+<details>
+<summary>
+  <b>💊 Oncology</b> &nbsp;—&nbsp; Oncology Medicine Ordering Platform &nbsp;
+  <img src="https://img.shields.io/badge/Healthcare-Laravel+Flutter-00D9FF?style=flat-square"/>
+</summary>
+
+<br/>
+
+```
+Stack  →  Laravel (PHP) · Flutter (iOS & Android) · Next.js · MySQL · Sanctum · FCM
+Scope  →  3 Roles · Snapshot Invoicing · Points & Coupons · EN/AR · Egypt 🇪🇬
+Role   →  Full Stack Developer (Backend + Mobile API)
+```
+
+- 🏥 Specialized B2B platform for an oncology medicine supplier — serving **hospitals, clinics, pharmacies & medical centers**
+- 🔄 Custom **7-step order flow**: Client browses → submits quantities → Admin prices → Client approves/cancels → Invoice locked → Delivered → Paid
+- 🧾 **Immutable invoice snapshot system** — locks client name, address, medicine names, unit prices & totals at confirmation time; prevents any retroactive data tampering
+- 🛡️ Three-role RBAC (Super Admin · Admin · Client) with Sanctum token auth and middleware guards per role
+- 💎 **Loyalty points engine** — configurable earn rate, redemption value, expiry window, per-client-type multipliers (e.g. Hospitals 2×), and gift reward thresholds
+- 🎟️ **Full discount & coupon system** — percentage, fixed, quantity-based, first-order, client-type, and client-specific private offers
+- 📱 **Flutter mobile app** (iOS & Android) with 18 screens: cancer-type category cards, medicine catalog, cart, order tracking, pricing review, invoice snapshot view, and points dashboard
+- 🖥️ **Next.js admin panel** — order pricing, client activation, invoice management, coupon engine, reports & analytics, push notification broadcasts
+- 🔔 Firebase FCM push notifications via Laravel Queue jobs for real-time order and pricing alerts
+
+<br/>
+</details>
+
+---
+
 <!-- GITHUB STATS -->
 ## 📊 &nbsp;`git log --stats`
 
@@ -255,7 +284,6 @@ Stack  →  Laravel · Next.js · MySQL
 </div>
 
 ---
-
 <!-- EDUCATION -->
 ## 🎓 &nbsp;`education --print`
 
