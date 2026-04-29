@@ -79,6 +79,28 @@ Role   →  Backend Developer · Freelance · Feb 2026 – Present
 </details>
 
 ---
+<details open> 
+<summary> 
+  <b>⚖️ MIZAN</b> &nbsp;—&nbsp; Law Office Management System &nbsp;
+ <img src="https://img.shields.io/badge/Legal_Tech-Egypt_🇪🇬-1E3A8A?style=flat-square"/> 
+</summary>
+  
+  <br/>
+  
+  ```
+  Stack  →  Laravel 13 · REST API · MySQL · Laravel Sanctum
+  Scope  →  Freelance Project · Bilingual (AR/EN) · 3 Roles
+  Period →  2025–Present
+
+  ```
+- ⚖️ End-to-end law office system: case management, client tracking, lawyer assignments, fees, and document handling
+- 🔐 Three-actor authentication (Admin · Lawyer · Client) with Laravel Sanctum and role-based access control (access + refresh tokens)
+- 🌐 Fully bilingual system with Arabic/English support and localized validation messages
+- 🧩 Hierarchical case structure with parent/child cases (appeals) and multi-status workflow management
+<br/>
+</details>
+
+---
 
 <details open>
 <summary>
