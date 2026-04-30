@@ -58,6 +58,29 @@
 
 <details open>
 <summary>
+  <b>📊 Portfolio Dashboard</b> &nbsp;—&nbsp; Full-Stack Admin & Analytics Platform &nbsp;
+  <img src="https://img.shields.io/badge/WebApp-Personal_2026-6366F1?style=flat-square"/>
+</summary>
+
+<br/>
+```
+Stack → Laravel 13 · Inertia.js · React 19 · TypeScript · Tailwind CSS
+Scope → Admin Dashboard · Auth (Fortify) · Type-safe Routing (Wayfinder)
+Role → Full-Stack Developer · Personal Project · 2026 – Present
+```
+
+- 🧩 Built a modern Laravel + React dashboard architecture with Inertia-driven SPA experience
+- 🔐 Implemented production-ready authentication flows via **Laravel Fortify** (login, register, verification, reset)
+- ⚙️ Developed scalable admin modules with reusable UI components and typed frontend-backend route/actions
+- 🎨 Crafted responsive, clean UI system using **Tailwind CSS v4** + **shadcn/ui** components
+- ✅ Added quality guardrails with linting, formatting, and automated test workflows for reliable delivery
+
+<br/>
+</details>
+
+---
+<details open>
+<summary>
   <b>🏥 ICU Connect</b> &nbsp;—&nbsp; Real-time ICU Patient Management &nbsp;
   <img src="https://img.shields.io/badge/Healthcare-Freelance_2026-00D9FF?style=flat-square"/>
 </summary>
