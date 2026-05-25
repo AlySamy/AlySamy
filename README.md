@@ -74,6 +74,9 @@
 <br/>
 </details>
 
+---
+
+
 <details open>
 <summary>
   <b>🚗 FriendyCar Backend</b> &nbsp;—&nbsp; Multi-Portal Car Sharing Platform &nbsp;
@@ -99,7 +102,7 @@ Role  → Full-Stack Developer · FriendyCar · Apr 2026 – Present
 <br/>
 </details>
 
-  
+  ---
 
 <details open>
 <summary>
