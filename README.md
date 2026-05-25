@@ -74,6 +74,31 @@
 <br/>
 </details>
 
+<details open>
+<summary>
+  <b>🚗 FriendyCar Backend</b> &nbsp;—&nbsp; Multi-Portal Car Sharing Platform &nbsp;
+  <img src="https://img.shields.io/badge/FriendyCar-Apr_2026_–_Present-10B981?style=flat-square"/>
+</summary>
+
+<br/>
+
+ ```
+Stack → Laravel 8 · PHP 7.4 · Vue 2 · MySQL · Redis (Horizon) · AWS S3
+Scope → 8 API Portals · Mileage Engine · Payments · Notifications · ERP Integration
+Role  → Full-Stack Developer · FriendyCar · Apr 2026 – Present
+
+  ```
+
+- 🏗️ Engineered and maintained **8 independent API portals** (mobile app, owner app, corporate portal, maintenance portal, admin dashboard, website, and integrations) with shared business logic via an **Actions pattern** (`lorisleiva/laravel-actions`)
+- 📐 Designed and executed a **DATE → DATETIME database migration** across 50+ files including validation layers, resource outputs, query logic, and Vue frontend pickers — with full backward compatibility and zero downtime
+- ⚙️ Built a complex **mileage validation engine** with day-boundary checks, monotonic mileage enforcement, and multi-portal request normalization using a shared `MileageDateHelper` utility
+- 💳 Integrated **Payfort & Paymob** payment gateways and **Odoo ERP** for fleet and contract financial data sync
+- 🔔 Implemented real-time push notifications via **Firebase**, SMS via **Twilio**, and async job processing with **Laravel Horizon**
+- 📦 Managed file uploads to **AWS S3**, borrower/owner contract lifecycle, fuel invoice processing, and garage check-in/out mileage tracking across portals
+
+<br/>
+</details>
+
   
 
 <details open>
