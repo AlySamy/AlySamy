@@ -58,16 +58,39 @@
 
 <details open>
 <summary>
+  <b>💊 Al-Farouq </b> &nbsp;—&nbsp; Boutique E-Commerce & Admin Platform &nbsp;
+  <img src="https://img.shields.io/badge/WebApp-Freelance_2026-D97706?style=flat-square"/>
+</summary>
+
+<br/>
+
+- 🛒 Built a **dual-surface** platform: RTL Arabic customer storefront (products, cart, checkout, wishlist) and a full admin panel for catalog, orders, customers, and content
+- 🔐 Implemented **Laravel Sanctum** for customer API auth and **Fortify**-backed admin authentication with protected routes and token refresh flows
+- 🧩 Designed versioned REST APIs (`/api/v1/admin`, `/api/v1/customer`) with service-layer architecture, DTOs, and PHPUnit feature tests
+- ⚙️ Developed scalable admin modules (orders, products, categories, blogs, coupons, offers) with reusable UI and **Wayfinder** type-safe route helpers
+- 🎨 Crafted a mobile-first boutique UI (cream/amber theme, animations, responsive nav) using **Tailwind CSS v4** + **shadcn/ui** on the admin side
+- ✅ Added quality guardrails with Pint, ESLint, Prettier, and `composer run ci:check` for reliable delivery across **dev / beta / production** branches
+
+<br/>
+</details>
+
+  
+
+<details open>
+<summary>
   <b>📊 Portfolio Dashboard</b> &nbsp;—&nbsp; Full-Stack Admin & Analytics Platform &nbsp;
   <img src="https://img.shields.io/badge/WebApp-Personal_2026-6366F1?style=flat-square"/>
 </summary>
 
 <br/>
-```
-Stack → Laravel 13 · Inertia.js · React 19 · TypeScript · Tailwind CSS
+
+  
+  ```
+ Stack → Laravel 13 · Inertia.js · React 19 · TypeScript · Tailwind CSS
 Scope → Admin Dashboard · Auth (Fortify) · Type-safe Routing (Wayfinder)
 Role → Full-Stack Developer · Personal Project · 2026 – Present
-```
+
+  ```
 
 - 🧩 Built a modern Laravel + React dashboard architecture with Inertia-driven SPA experience
 - 🔐 Implemented production-ready authentication flows via **Laravel Fortify** (login, register, verification, reset)
