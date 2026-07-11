@@ -58,27 +58,6 @@
 
 <details open>
 <summary>
-  <b>💊 Al-Farouq </b> &nbsp;—&nbsp; Boutique E-Commerce & Admin Platform &nbsp;
-  <img src="https://img.shields.io/badge/WebApp-Freelance_2026-D97706?style=flat-square"/>
-</summary>
-
-<br/>
-
-- 🛒 Built a **dual-surface** platform: RTL Arabic customer storefront (products, cart, checkout, wishlist) and a full admin panel for catalog, orders, customers, and content
-- 🔐 Implemented **Laravel Sanctum** for customer API auth and **Fortify**-backed admin authentication with protected routes and token refresh flows
-- 🧩 Designed versioned REST APIs (`/api/v1/admin`, `/api/v1/customer`) with service-layer architecture, DTOs, and PHPUnit feature tests
-- ⚙️ Developed scalable admin modules (orders, products, categories, blogs, coupons, offers) with reusable UI and **Wayfinder** type-safe route helpers
-- 🎨 Crafted a mobile-first boutique UI (cream/amber theme, animations, responsive nav) using **Tailwind CSS v4** + **shadcn/ui** on the admin side
-- ✅ Added quality guardrails with Pint, ESLint, Prettier, and `composer run ci:check` for reliable delivery across **dev / beta / production** branches
-
-<br/>
-</details>
-
----
-
-
-<details open>
-<summary>
   <b>🚗 FriendyCar Backend</b> &nbsp;—&nbsp; Multi-Portal Car Sharing Platform &nbsp;
   <img src="https://img.shields.io/badge/FriendyCar-Apr_2026_–_Present-10B981?style=flat-square"/>
 </summary>
@@ -103,6 +82,53 @@ Role  → Full-Stack Developer · FriendyCar · Apr 2026 – Present
 </details>
 
   ---
+  <details open>
+<summary>
+  <b>🏥 ICU Connect</b> &nbsp;—&nbsp; Real-time ICU Patient Management &nbsp;
+  <img src="https://img.shields.io/badge/Healthcare-Freelance_2026-00D9FF?style=flat-square"/>
+</summary>
+
+<br/>
+
+```
+Stack  →  Laravel · MySQL · Sanctum · Spatie Permissions
+Scope  →  Multi-Hospital · EN/AR · Multi-Role RBAC
+Role   →  Backend Developer · Freelance · Feb 2026 – Present
+```
+
+
+- 🏗️ Multi-role RESTful API (Super Admin → Hospital Admin → Doctor) across **20+ database models**
+- 🔄 Full patient lifecycle with **7 status transitions** + **10 clinical modules** — vitals, labs, DICOM radiology, ultrasound, echo, medication
+- 🤖 **AI-powered clinical decision support** with structured recommendations across **10 ICU care modules** (medication, labs, vitals, diagnosis, discharge, imaging, and more)
+- 🧠 Modular AI layer with **context-aware prompts**, validated JSON responses, drug-formulary awareness, caching, and resilient API handling
+- 📧 Invitation-based doctor onboarding, OTP auth, automated emails, DICOM uploads
+- 🌍 Complete **EN / AR** bilingual support throughout
+
+<br/>
+</details>
+
+---
+<details open>
+<summary>
+  <b>💊 Al-Farouq </b> &nbsp;—&nbsp; Boutique E-Commerce & Admin Platform &nbsp;
+  <img src="https://img.shields.io/badge/WebApp-Freelance_2026-D97706?style=flat-square"/>
+</summary>
+
+<br/>
+
+- 🛒 Built a **dual-surface** platform: RTL Arabic customer storefront (products, cart, checkout, wishlist) and a full admin panel for catalog, orders, customers, and content
+- 🔐 Implemented **Laravel Sanctum** for customer API auth and **Fortify**-backed admin authentication with protected routes and token refresh flows
+- 🧩 Designed versioned REST APIs (`/api/v1/admin`, `/api/v1/customer`) with service-layer architecture, DTOs, and PHPUnit feature tests
+- ⚙️ Developed scalable admin modules (orders, products, categories, blogs, coupons, offers) with reusable UI and **Wayfinder** type-safe route helpers
+- 🎨 Crafted a mobile-first boutique UI (cream/amber theme, animations, responsive nav) using **Tailwind CSS v4** + **shadcn/ui** on the admin side
+- ✅ Added quality guardrails with Pint, ESLint, Prettier, and `composer run ci:check` for reliable delivery across **dev / beta / production** branches
+
+<br/>
+</details>
+
+---
+
+
 
 <details open>
 <summary>
@@ -130,32 +156,7 @@ Role → Full-Stack Developer · Personal Project · 2026 – Present
 </details>
 
 ---
-<details open>
-<summary>
-  <b>🏥 ICU Connect</b> &nbsp;—&nbsp; Real-time ICU Patient Management &nbsp;
-  <img src="https://img.shields.io/badge/Healthcare-Freelance_2026-00D9FF?style=flat-square"/>
-</summary>
 
-<br/>
-
-```
-Stack  →  Laravel · MySQL · Sanctum · Spatie Permissions
-Scope  →  Multi-Hospital · EN/AR · Multi-Role RBAC
-Role   →  Backend Developer · Freelance · Feb 2026 – Present
-```
-
-
-- 🏗️ Multi-role RESTful API (Super Admin → Hospital Admin → Doctor) across **20+ database models**
-- 🔄 Full patient lifecycle with **7 status transitions** + **10 clinical modules** — vitals, labs, DICOM radiology, ultrasound, echo, medication
-- 🤖 **AI-powered clinical decision support** with structured recommendations across **10 ICU care modules** (medication, labs, vitals, diagnosis, discharge, imaging, and more)
-- 🧠 Modular AI layer with **context-aware prompts**, validated JSON responses, drug-formulary awareness, caching, and resilient API handling
-- 📧 Invitation-based doctor onboarding, OTP auth, automated emails, DICOM uploads
-- 🌍 Complete **EN / AR** bilingual support throughout
-
-<br/>
-</details>
-
----
 <details open> 
 <summary> 
   <b>⚖️ MIZAN</b> &nbsp;—&nbsp; Law Office Management System &nbsp;
