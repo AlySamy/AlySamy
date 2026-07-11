@@ -144,8 +144,11 @@ Scope  →  Multi-Hospital · EN/AR · Multi-Role RBAC
 Role   →  Backend Developer · Freelance · Feb 2026 – Present
 ```
 
+
 - 🏗️ Multi-role RESTful API (Super Admin → Hospital Admin → Doctor) across **20+ database models**
 - 🔄 Full patient lifecycle with **7 status transitions** + **10 clinical modules** — vitals, labs, DICOM radiology, ultrasound, echo, medication
+- 🤖 **AI-powered clinical decision support** with structured recommendations across **10 ICU care modules** (medication, labs, vitals, diagnosis, discharge, imaging, and more)
+- 🧠 Modular AI layer with **context-aware prompts**, validated JSON responses, drug-formulary awareness, caching, and resilient API handling
 - 📧 Invitation-based doctor onboarding, OTP auth, automated emails, DICOM uploads
 - 🌍 Complete **EN / AR** bilingual support throughout
 
