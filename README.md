@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-alysamyrady%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:alysamyrady@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AlySamy-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/AlySamy)
 [![Cairo](https://img.shields.io/badge/📍_Cairo-Egypt-0d1117?style=for-the-badge&labelColor=161b22&color=00D9FF)](https://maps.google.com/?q=Cairo,Egypt)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201040098509-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=161b22)](tel:+201061949508)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201040098509-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=161b22)](tel:+201040098509)
 
 </div>
 
@@ -77,6 +77,111 @@ Role  → Full-Stack Developer · FriendyCar · Apr 2026 – Present
 - 💳 Integrated **Payfort & Paymob** payment gateways and **Odoo ERP** for fleet and contract financial data sync
 - 🔔 Implemented real-time push notifications via **Firebase**, SMS via **Twilio**, and async job processing with **Laravel Horizon**
 - 📦 Managed file uploads to **AWS S3**, borrower/owner contract lifecycle, fuel invoice processing, and garage check-in/out mileage tracking across portals
+
+<br/>
+</details>
+
+---
+
+<details open>
+<summary>
+  <b>📱 Mr Mobile</b> &nbsp;—&nbsp; Multi-Branch Phone Retail, Repair &amp; E-Commerce Platform &nbsp;
+  <img src="https://img.shields.io/badge/Tech_Lead-Austria_🇦🇹-FE7F2D?style=flat-square"/>
+</summary>
+
+<br/>
+
+```
+Stack  →  Laravel 13 · PHP 8.4 · Filament 5 · Next.js 16 · React 19 · MySQL · Sanctum · Stripe
+Scope  →  16 Modules · 160+ Tables · Web Shop + Mobile API · Multi-Branch · DE/EN
+Role   →  Tech Lead · Full-Stack (Backend + Frontend) · Sep 2026 – Present
+```
+
+- 👑 **Led the project end to end** — wrote the SRS (**195 functional requirements**), designed a modular-monolith architecture and a **160+ table** data model, and coordinated backend, web and mobile work
+- 🏬 Multi-branch back office in **Filament 5** (**85+ resources**): orders & POS, **IMEI-level inventory** and stock transfers, tills, staff attendance & payroll, expenses, and branch-based access control
+- 🔁 **Trade-in** (buying used phones) and **repair-ticket** flows with full status history, plus online-order fulfilment from the branches
+- 🇦🇹 Built for Austrian / EU rules — gross EUR pricing with 20% VAT, **margin-scheme VAT** for used phones, GDPR, withdrawal rights, and compliant PDF invoices
+- 🔌 One versioned REST API with `/web` and `/mobile` surfaces (**141 mobile endpoints**) on a shared Actions-based core — guest checkout with cart merge, Google / Apple sign-in, loyalty points and coupons
+- 🛍️ **Next.js 16** storefront (SSR, NextAuth v5, next-intl, TanStack Query) — German-first with English, plus a DE / EN / AR admin panel
+- ✅ Backed by **240+ Pest test files** and auto-generated API documentation
+
+<br/>
+</details>
+
+---
+
+<details open>
+<summary>
+  <b>🌿 Herb &amp; Oil</b> &nbsp;—&nbsp; Natural Products E-Commerce Platform &nbsp;
+  <img src="https://img.shields.io/badge/E--Commerce-Saudi_Arabia_🇸🇦-2E7D32?style=flat-square"/>
+</summary>
+
+<br/>
+
+```
+Stack  →  Odoo 19 · Python · PostgreSQL · Next.js 16 · React 19 · TypeScript · Docker
+Scope  →  Headless Odoo API · Web Storefront + Mobile App · AR/EN (RTL) · 5,600+ Products
+Link   →  https://herbandoil.sa
+Role   →  Full-Stack Developer (Odoo Backend + Next.js Frontend) · Jan 2025 – Present
+```
+
+- 🔌 Headless **REST API on Odoo** powering the storefront and mobile app — catalog with **faceted filters**, cart, orders, coupons and affiliate attribution
+- 💳 **Gateway-agnostic payment layer** — PayMob (cards / mada), Tabby & Tamara installments, and Apple Pay, with server-side reconciliation and webhooks
+- 🛒 **Guest checkout with OTP** verification and automatic account hand-over after payment
+- 🖥️ **Arabic-first RTL storefront** in Next.js 16 with English localization, NextAuth v5 (phone OTP, Google, Apple) and SSR with TanStack Query hydration
+- 🔎 SEO built in — slugged URLs, canonicals, JSON-LD and a dynamic sitemap for **5,600+ products**
+- 🚀 **GitHub Actions CI/CD** to DigitalOcean (nginx + Docker) across dev, beta and production, plus Firebase push notifications
+
+<br/>
+</details>
+
+---
+
+<details open>
+<summary>
+  <b>🦷 UDTech Clinic &amp; Dental System</b> &nbsp;—&nbsp; Multi-Specialty Clinic Management on Odoo &nbsp;
+  <img src="https://img.shields.io/badge/Healthcare-Saudi_Arabia_🇸🇦-00D9FF?style=flat-square"/>
+</summary>
+
+<br/>
+
+```
+Stack  →  Odoo 19 · Python · PostgreSQL · OWL (JavaScript) · XML/QWeb · Docker
+Scope  →  120+ Modules · 12+ In-House Modules · Dental · Lab · Radiology · Accounting · HR
+Role   →  Odoo Developer (Backend + Frontend) · UDTech · Aug 2026 – Present
+```
+
+- 🏥 Extended a **multi-specialty clinic system** — patients, appointments, dental, laboratory, radiology, insurance, hospitalization, accounting and HR payroll — on Odoo 19 and a vendor HMS suite, **without modifying vendor code**
+- 🦷 Dedicated **dental clinic deployment** with an **interactive odontogram** (OWL) on patient and appointment forms
+- 📅 Doctor-schedule-aware **appointment slot picker**, employee work schedules, MRN-based patient enhancements, and department-based access control
+- 🔌 JSON **REST API** over doctors and departments for external integrations
+- ⬆️ **Migration to Odoo 19** — views, security rules and OWL components updated across **120+ modules**
+- 🐳 Docker-based staging and production with backup / restore procedures and a **Git-based auto-deploy pipeline** (push → changed modules upgraded and server restarted within a minute)
+
+<br/>
+</details>
+
+---
+
+<details open>
+<summary>
+  <b>👗 Abaya</b> &nbsp;—&nbsp; Luxury Modest Fashion Commerce Platform &nbsp;
+  <img src="https://img.shields.io/badge/E--Commerce-Odoo_19-4B007F?style=flat-square"/>
+</summary>
+
+<br/>
+
+```
+Stack  →  Odoo 19 · Python · PostgreSQL · OWL · Docker
+Scope  →  GCC Marketplace · EN/AR (RTL) · Custom Admin + Storefront API
+Role   →  Full-Stack / Odoo Developer · 2026
+```
+
+- 🛍️ End-to-end commerce platform for premium abayas & dresses — **catalog, boutiques, cart, checkout, and account**
+- 🧩 Custom **OWL admin suite** (products, orders, inventory, brands, offers, reviews, customers, content, notifications)
+- 🔌 Headless **REST API (`/api/v1`)** powering the public storefront — products, auth, wishlist, orders, payments, shipping
+- 🖼️ Product lifecycle with **multi-image galleries**, **color / size variants**, and boutique-linked catalog
+- 🌍 Full **English / Arabic** bilingual support with **RTL** across admin and storefront
 
 <br/>
 </details>
