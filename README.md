@@ -1,17 +1,17 @@
 <!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=220&section=header&text=Aly%20Samy%20Rady&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Laravel%20%C2%B7%20Next.js%20%7C%20SaaS%20Architect&descSize=18&descAlignY=58&descColor=00D9FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=220&section=header&text=Aly%20Samy%20Rady&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20Tech%20Lead%20%7C%20Laravel%20%C2%B7%20Next.js%20%C2%B7%20Odoo&descSize=18&descAlignY=58&descColor=00D9FF" width="100%"/>
 
 <!-- SOCIAL BADGES ROW -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🏗️+Multi-Tenant+SaaS+Architect;🔐+RBAC+%7C+REST+APIs+%7C+Clean+Architecture;🌍+GCC+·+Europe+·+Egypt;⚡+4%2B+Years+Shipping+Production+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🏗️+Multi-Tenant+SaaS+Architect;🔐+RBAC+%7C+REST+APIs+%7C+Clean+Architecture;🌍+GCC+·+Europe+·+Egypt;⚡+Tech+Lead+%7C+Laravel+·+Next.js+·+Odoo)](https://git.io/typing-svg)
 
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-alysamyrady%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:alysamyrady@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AlySamy-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/AlySamy)
 [![Cairo](https://img.shields.io/badge/📍_Cairo-Egypt-0d1117?style=for-the-badge&labelColor=161b22&color=00D9FF)](https://maps.google.com/?q=Cairo,Egypt)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201040098509-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=161b22)](tel:+201040098509)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201040098509-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=161b22)](https://wa.me/201040098509)
 
 </div>
 
@@ -23,12 +23,11 @@
 ```yaml
 # ── Aly Samy Rady ───────────────────────────────────────────────
   name         : "Aly Samy Rady"
-  role         : "Full Stack Engineer"
-  experience   : "4+ years in production"
-  primary_stack: "Laravel + Next.js"
+  role         : "Senior Full Stack Engineer | Tech Lead"
+  primary_stack: "Laravel + Next.js + Odoo"
   architecture : ["Multi-Tenant SaaS", "RBAC", "REST API Design"]
-  markets      : ["GCC 🇸🇦🇶🇦", "Europe 🇮🇹", "Egypt 🇪🇬", "UAE 🇦🇪"]
-  industries   : ["Fintech", "Healthcare", "HR Tech", "E-Commerce", "Construction"]
+  markets      : ["GCC 🇸🇦🇶🇦", "Europe 🇮🇹🇦🇹", "Egypt 🇪🇬", "UAE 🇦🇪"]
+  industries   : ["Fintech", "Healthcare", "HR Tech", "E-Commerce", "Retail", "Construction"]
   languages    : { Arabic: "Native", English: "Very Good" }
   superpower   : "Full delivery ownership — from architecture to deployment"
 # ────────────────────────────────────────────────────────────────
@@ -43,11 +42,11 @@
 
 | Layer | Technologies |
 |---|---|
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Auth & Sec** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-00D9FF?style=flat-square&logoColor=000) ![OTP](https://img.shields.io/badge/OTP_Auth-6C47FF?style=flat-square&logo=authy&logoColor=white) |
-| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Spatie](https://img.shields.io/badge/Spatie-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Spatie](https://img.shields.io/badge/Spatie-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 
 </div>
 
@@ -198,7 +197,7 @@ Role   →  Full-Stack / Odoo Developer · 2026
 ```
 Stack  →  Laravel · MySQL · Sanctum · Spatie Permissions
 Scope  →  Multi-Hospital · EN/AR · Multi-Role RBAC
-Role   →  Backend Developer · Freelance · Feb 2026 – Present
+Role   →  Backend Developer · Freelance · Feb 2026 – Apr 2026
 ```
 
 
@@ -510,9 +509,9 @@ Role   →  Full Stack Developer (Backend + Mobile API)
 
 <div align="center">
 
-| 🇸🇦 Saudi Arabia | 🇮🇹 Italy | 🇶🇦 Qatar | 🇪🇬 Egypt | 🇦🇪 UAE |
-|:---:|:---:|:---:|:---:|:---:|
-| Fintech · HR Tech | Construction | E-Commerce · Car Services | Marketplace · SaaS | Club Management |
+| 🇸🇦 Saudi Arabia | 🇦🇹 Austria | 🇮🇹 Italy | 🇶🇦 Qatar | 🇪🇬 Egypt | 🇦🇪 UAE |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Fintech · HR Tech · Healthcare · E-Commerce | Retail · E-Commerce | Construction | E-Commerce · Car Services | Marketplace · SaaS | Club Management |
 
 </div>
 
