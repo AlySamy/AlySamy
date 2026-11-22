@@ -26,6 +26,7 @@
   role         : "Senior Full Stack Engineer | Tech Lead"
   primary_stack: "Laravel + Next.js + Odoo"
   architecture : ["Multi-Tenant SaaS", "RBAC", "REST API Design"]
+  devops       : ["Docker", "Nginx", "GitHub Actions CI/CD", "Linux"]
   markets      : ["GCC 🇸🇦🇶🇦", "Europe 🇮🇹🇦🇹", "Egypt 🇪🇬", "UAE 🇦🇪"]
   industries   : ["Fintech", "Healthcare", "HR Tech", "E-Commerce", "Retail", "Construction"]
   languages    : { Arabic: "Native", English: "Very Good" }
@@ -46,7 +47,8 @@
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Auth & Sec** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-00D9FF?style=flat-square&logoColor=000) ![OTP](https://img.shields.io/badge/OTP_Auth-6C47FF?style=flat-square&logo=authy&logoColor=white) |
-| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Spatie](https://img.shields.io/badge/Spatie-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-00D9FF?style=flat-square&logoColor=000) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Spatie](https://img.shields.io/badge/Spatie-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 
 </div>
 
@@ -93,7 +95,7 @@ Role  → Full-Stack Developer · FriendyCar · Apr 2026 – Present
 ```
 Stack  →  Laravel 13 · PHP 8.4 · Filament 5 · Next.js 16 · React 19 · MySQL · Sanctum · Stripe
 Scope  →  16 Modules · 160+ Tables · Web Shop + Mobile API · Multi-Branch · DE/EN
-Role   →  Tech Lead · Full-Stack (Backend + Frontend) · Sep 2026 – Present
+Role   →  Tech Lead · Full-Stack (Backend + Frontend) · DevOps · Sep 2026 – Present
 ```
 
 - 👑 **Led the project end to end** — wrote the SRS (**195 functional requirements**), designed a modular-monolith architecture and a **160+ table** data model, and coordinated backend, web and mobile work
@@ -121,7 +123,7 @@ Role   →  Tech Lead · Full-Stack (Backend + Frontend) · Sep 2026 – Present
 Stack  →  Odoo 19 · Python · PostgreSQL · Next.js 16 · React 19 · TypeScript · Docker
 Scope  →  Headless Odoo API · Web Storefront + Mobile App · AR/EN (RTL) · 5,600+ Products
 Link   →  https://herbandoil.sa
-Role   →  Full-Stack Developer (Odoo Backend + Next.js Frontend) · Jan 2025 – Present
+Role   →  Full-Stack Developer (Odoo Backend + Next.js Frontend) · DevOps · Jan 2025 – Present
 ```
 
 - 🔌 Headless **REST API on Odoo** powering the storefront and mobile app — catalog with **faceted filters**, cart, orders, coupons and affiliate attribution
@@ -129,7 +131,9 @@ Role   →  Full-Stack Developer (Odoo Backend + Next.js Frontend) · Jan 2025 �
 - 🛒 **Guest checkout with OTP** verification and automatic account hand-over after payment
 - 🖥️ **Arabic-first RTL storefront** in Next.js 16 with English localization, NextAuth v5 (phone OTP, Google, Apple) and SSR with TanStack Query hydration
 - 🔎 SEO built in — slugged URLs, canonicals, JSON-LD and a dynamic sitemap for **5,600+ products**
-- 🚀 **GitHub Actions CI/CD** to DigitalOcean (nginx + Docker) across dev, beta and production, plus Firebase push notifications
+- 🚀 **CI/CD with GitHub Actions** — lint, type-check and build on every pull request; Docker images pushed to the DigitalOcean Container Registry and deployed per branch to separate **beta and production** environments
+- 🛡️ **Nginx** in front of **4 load-balanced Next.js replicas** — HTTPS with Let's Encrypt, HTTP → HTTPS and apex → www redirects, security headers, long-lived caching for static assets, and **rate limiting / flood protection** added after a real traffic-flood incident
+- 🔔 Firebase push notifications for web and mobile
 
 <br/>
 </details>
@@ -226,6 +230,7 @@ Role   →  Backend Developer · Freelance · Feb 2026 – Apr 2026
 - ⚙️ Developed scalable admin modules (orders, products, categories, blogs, coupons, offers) with reusable UI and **Wayfinder** type-safe route helpers
 - 🎨 Crafted a mobile-first boutique UI (cream/amber theme, animations, responsive nav) using **Tailwind CSS v4** + **shadcn/ui** on the admin side
 - ✅ Added quality guardrails with Pint, ESLint, Prettier, and `composer run ci:check` for reliable delivery across **dev / beta / production** branches
+- 🐳 **Dockerized** production stack (PHP app, Nginx, queue worker) with **GitHub Actions** lint and test workflows
 
 <br/>
 </details>
@@ -255,6 +260,7 @@ Role → Full-Stack Developer · Personal Project · 2026 – Present
 - ⚙️ Developed scalable admin modules with reusable UI components and typed frontend-backend route/actions
 - 🎨 Crafted responsive, clean UI system using **Tailwind CSS v4** + **shadcn/ui** components
 - ✅ Added quality guardrails with linting, formatting, and automated test workflows for reliable delivery
+- 🐳 **GitHub Actions** lint and test workflows, plus a Dockerized build check for the Next.js portfolio frontend
 
 <br/>
 </details>
