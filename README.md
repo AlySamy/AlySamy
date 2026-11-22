@@ -104,6 +104,7 @@ Role   →  Tech Lead · Full-Stack (Backend + Frontend) · DevOps · Sep 2026 �
 - 🇦🇹 Built for Austrian / EU rules — gross EUR pricing with 20% VAT, **margin-scheme VAT** for used phones, GDPR, withdrawal rights, and compliant PDF invoices
 - 🔌 One versioned REST API with `/web` and `/mobile` surfaces (**141 mobile endpoints**) on a shared Actions-based core — guest checkout with cart merge, Google / Apple sign-in, loyalty points and coupons
 - 🛍️ **Next.js 16** storefront (SSR, NextAuth v5, next-intl, TanStack Query) — German-first with English, plus a DE / EN / AR admin panel
+- 🚀 **Owns the DevOps** for the platform — Docker-based deployment, **GitHub Actions CI/CD**, and **Nginx** for the API, admin panel and storefront
 - ✅ Backed by **240+ Pest test files** and auto-generated API documentation
 
 <br/>
@@ -151,7 +152,7 @@ Role   →  Full-Stack Developer (Odoo Backend + Next.js Frontend) · DevOps · 
 ```
 Stack  →  Odoo 19 · Python · PostgreSQL · OWL (JavaScript) · XML/QWeb · Docker
 Scope  →  120+ Modules · 12+ In-House Modules · Dental · Lab · Radiology · Accounting · HR
-Role   →  Odoo Developer (Backend + Frontend) · UDTech · Aug 2026 – Present
+Role   →  Odoo Developer (Backend + Frontend) · DevOps · UDTech · Aug 2026 – Present
 ```
 
 - 🏥 Extended a **multi-specialty clinic system** — patients, appointments, dental, laboratory, radiology, insurance, hospitalization, accounting and HR payroll — on Odoo 19 and a vendor HMS suite, **without modifying vendor code**
